@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "id.ac.polbeng.ardianto.gpsexample"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "id.ac.polbeng.ardianto.gpsexample"
